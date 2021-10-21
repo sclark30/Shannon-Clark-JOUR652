@@ -1,0 +1,58 @@
+.page-wrapper{
+  margin: 0 auto;
+  width: 1000px;
+}
+
+
+
+.h1{
+  font-size: 18px;
+  font-style: bold;
+  font-family: Georgia;
+}
+/*Headline Styling */
+.headline{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+  font-size: 20px;
+  font-style:bold;
+  font-family: "Arial;"
+}
+
+ .p{
+  font-family: "Helvetica, Arial, sans-serif;"
+  font-style: normal;
+  font-size: 12px;
+}
+
+.page-wrapper{
+  margin-right:auto;
+  margin-left:auto;
+  max-width: 12000px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.byline{
+  font-size:12px;
+  font-style:"italic"
+  font-family:"sans-serif; Calibri"
+}
+
+.captions{
+  caption-align:"bottom";
+}
+
+.blockquote {
+    float: left;
+    width: 100px;
+    background: #ddf;
+    font-weight: bold;
+    padding: 13px;
+    margin: 0 13px 13px 0;
+}
+
+blockquote {
+    margin: 0; }
