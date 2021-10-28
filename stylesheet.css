@@ -1,5 +1,93 @@
-#content{
-  text-align:center
-  margin: 0 auto;
-  width: 900px:auto;
+<style>
+.container{
+  text-align: margin: 0 auto;
 }
+
+.navbar-brand {
+  text-width: bold;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Zen Antique', serif;
+  font-weight: 100;
+  font-size:2.5em;
+  padding: 40px;
+  color:#A64826
+
+
+
+}
+
+hr{
+  color:#BF6860;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Zen Antique Soft', serif;
+  font-size:2em;
+  color:#D9ABA0
+
+
+}
+
+h4 {
+  font-family: 'Zen Antique', serif;
+  color:#D9ABA0
+}
+
+h5{
+  font-family: 'Zen Antique Soft', serif;
+  color:#BF6860
+}
+
+h6 {
+  text-align: center;
+  font-family: 'Zen Antique Soft', serif;
+  font-weight:30px;
+}
+
+h7{
+  text-align:center;
+  font-family: 'Zen Antique Soft', serif;
+  color:#BF6860
+}
+p{
+  text-align: center;
+}
+
+.gradphoto{
+  float:right;
+  width:75%;
+  height:75%;
+  padding: 20px;
+
+}
+.overlay {
+  display: none;
+  background-color: rgba(0,0,0,0.50);
+  color: #f0e9e9;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.product:hover .overlay {
+  display: flex;
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+</style>
