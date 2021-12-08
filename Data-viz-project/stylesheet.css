@@ -206,8 +206,22 @@ background-color:#E3E3E3;
 content: "\2014 \2009";
 }
 
+.hr {
+  color:#999999;
+  font-weight:1em;
+}
 
 .attribution{
   font-style:italic;
   font-weight:400;
+}
+
+.related{
+  font-family:'Bebas Neue', cursive;
+  font-size:1.25em;
+}
+
+.footer{
+  font-family:'Bebas Neue', cursive;
+  text-align:left;
 }
